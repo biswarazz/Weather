@@ -1,3 +1,10 @@
+http://localhost:5173/
+
+copy this link and paste it and click enter
+
+
+
+
 # React + Vite 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
